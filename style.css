@@ -16,7 +16,14 @@
     height:30px;   /* Height of the footer */
     background:#6cf;
  }
-   
+ body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
    h1,
    h2 {
     text-align: center;
