@@ -10,7 +10,15 @@
     color: white;
    }
    footer {
+    width: 100%;
 
+    background-color: blue;
+    color: white;
+   }
+   body {
+    background-color: lightblue;
+  }
+  
    h1,
    h2 {
     color: red;
