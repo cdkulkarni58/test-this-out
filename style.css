@@ -10,7 +10,15 @@
     color: white;
    }
    footer {
+    width: 100%;
 
+    background-color: blue;
+    color: white;
+   }
+   body {
+    background-color: lightblue;
+  }
+  
    h1,
    h2 {
     color: red;
@@ -40,10 +48,8 @@
     margin-right:30px;
     text-align:right;
     }
-    
-    input{
-    
-    }
+     /* this is comment */
+  
     
     fieldset{
     border:none;
