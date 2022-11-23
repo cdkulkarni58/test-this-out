@@ -8,12 +8,19 @@
 
     background-color: blue;
     color: white;
+    color: rgb(255, 187, 0);
+    text-align:center;
    }
    footer {
     width: 100%;
 
-    background-color: blue;
+    background-color: rgb(255, 153, 0);
     color: white;
+   
+    color: rgb(179, 0, 255);
+    text-align:center;
+
+
    }
    body {
     background-color: lightblue;
